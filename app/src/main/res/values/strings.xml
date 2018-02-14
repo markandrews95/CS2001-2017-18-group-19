@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">iStayFit</string>
+    <string name="title_workout">Workout</string>
+    <string name="title_map">Map</string>
+    <string name="title_history">History</string>
+    <string name="title_blogs">Blogs</string>
+</resources>
